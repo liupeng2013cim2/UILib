@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Andy\'s UILib</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string-array name="spinnername">
+        <item>data1</item>
+        <item>data2</item>
+        <item>data3</item>
+        <item>data4</item>
+        <item>data5</item>
+        <item>data6</item>
+        <item>data7</item>
+        <item>data8</item>
+        <item>data9</item>
+        <item>data10</item>
+        <item>data1</item>
+        <item>data2</item>
+        <item>data3</item>
+        <item>data4</item>
+        <item>data5</item>
+        <item>data6</item>
+        <item>data7</item>
+        <item>data8</item>
+        <item>data9</item>
+        <item>data10</item>
+        <item>data1</item>
+        <item>data2</item>
+        <item>data3</item>
+        <item>data4</item>
+        <item>data5</item>
+        <item>data6</item>
+        <item>data7</item>
+        <item>data8</item>
+        <item>data9</item>
+        <item>data10</item>
+    </string-array>
+
+</resources>
